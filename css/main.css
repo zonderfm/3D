@@ -112,7 +112,7 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     font-size: calc(var(--index) * .7);
-    letter-spacing: -0.3vw;
+    letter-spacing: -0.7vw;
     padding: calc(var(--index) * .7) calc(var(--index) * 1.25);
     background-color: transparent;
     color: #fff;
