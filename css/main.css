@@ -108,7 +108,7 @@ body {
 }
 
 .button-start {
-    font-family: Arial;
+    font-family: kamerik-3d;
     font-weight: 600;
     text-transform: uppercase;
     font-size: calc(var(--index) * .7);
